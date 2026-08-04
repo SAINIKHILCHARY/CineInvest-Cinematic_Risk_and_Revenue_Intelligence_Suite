@@ -1,6 +1,7 @@
 CREATE DATABASE IF NOT EXISTS cineinvest;
 USE cineinvest;
 
+-- Primary_Production_Company 
 SELECT
     m.movie_id,
     m.title,
@@ -18,6 +19,7 @@ JOIN (
 ) pc
 ON m.Primary_Production_Company = pc.Primary_Production_Company;
 
+-- Primary_Genre
 SELECT
     m.movie_id,
     m.title,
@@ -35,6 +37,7 @@ JOIN (
 ) g
 ON m.Primary_Genre = g.Primary_Genre;
 
+-- Release_Year
 SELECT
 	m.movie_id,
     m.title,
@@ -52,6 +55,7 @@ JOIN (
 ) y
 ON m.Release_Year = y.Release_Year;
 
+-- Financial_Result
 SELECT
 	m.movie_id,
     m.title,
@@ -67,6 +71,7 @@ JOIN (
 ) f
 ON m.Financial_Result = f.Financial_Result;
 
+-- Budget_Category
 SELECT
 	m.movie_id,
     m.title,
