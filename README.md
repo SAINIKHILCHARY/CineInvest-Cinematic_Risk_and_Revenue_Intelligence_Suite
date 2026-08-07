@@ -77,7 +77,7 @@ Analysis by genre, production company, and profitability.
 
 <img width="1283" height="723" alt="Segments" src="https://github.com/user-attachments/assets/9ce3e5e1-c903-439e-9d5b-958a1408e1c0" />
 
-Business Insights
+# Business Insights
 
 Movies released after 2000 generated higher revenue.
 
@@ -93,7 +93,7 @@ https://github.com/SAINIKHILCHARY/Movie-Investment-Efficiency-Portfolio-Risk-Ana
 
 # Author
 
-Sai Nikhil
+Madupu Sai Nikhil
 
 Computer Science & Engineering Graduate
 
