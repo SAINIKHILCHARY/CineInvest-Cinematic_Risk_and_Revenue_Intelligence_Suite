@@ -356,12 +356,11 @@ Overall, CineInvest provides a structured, data-driven approach for supporting *
 
 # GitHub Repository
 
-**CineInvest – Movie Investment Efficiency & Portfolio Risk Analytics System**
+[CineInvest – Movie Investment Efficiency & Portfolio Risk Analytics System](https://github.com/SAINIKHILCHARY/Movie-Investment-Efficiency-Portfolio-Risk-Analytics-System)
 
-`https://github.com/SAINIKHILCHARY/Movie-Investment-Efficiency-Portfolio-Risk-Analytics-System`
+# Demo Video
 
-# Demo Link
-`https://www.loom.com/share/68a772e36f444131997206e18bf4eacb`
+[Watch CineInvest Demo](https://www.loom.com/share/68a772e36f444131997206e18bf4eacb)
 
 # Author
 
