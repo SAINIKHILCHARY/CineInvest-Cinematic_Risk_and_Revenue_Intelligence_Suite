@@ -202,6 +202,9 @@ The Power BI dashboard includes:
 
 Selecting a production company allows the user to focus the dashboard on that specific segment and analyze its related performance.
 
+<img width="1377" height="773" alt="image" src="https://github.com/user-attachments/assets/4c02bf42-4f94-44af-b581-54b76f26bfed" />
+
+
 # Key Business Insights
 
 ## 1. Revenue Growth Over Time
@@ -331,16 +334,7 @@ Together, these views help users understand **movie revenue, profitability, ROI,
 - **Interactive Power BI Dashboard:** Provides Overview, Trends, and Segments views with KPI cards, charts, slicers, filtering, drill-down, and navigation.
 - **Business-Oriented KPIs:** Includes Movie Count, Total Revenue, Total Profit, Average ROI, and Revenue-Budget Ratio.
 
-# Recommendations
 
-- Evaluate **Budget, Revenue, Profit, and ROI together** before making movie investment decisions.
-- Use **Budget vs Revenue** analysis to assess whether higher production spending is generating proportionally higher revenue.
-- Compare genres using multiple financial indicators rather than relying only on total revenue.
-- Evaluate production companies using revenue, profit, ROI, and movie volume together.
-- Investigate unusually high or extreme ROI values before using them as investment benchmarks.
-- Use release-year trends to understand changes in movie production and revenue performance.
-- Use the interactive Power BI dashboard to compare specific production companies, budget categories, genres, and movie segments.
-- Prioritize investment decisions based on **investment efficiency and profitability**, not revenue alone.
 
 # Conclusion
 
@@ -365,6 +359,9 @@ Overall, CineInvest provides a structured, data-driven approach for supporting *
 **CineInvest – Movie Investment Efficiency & Portfolio Risk Analytics System**
 
 `https://github.com/SAINIKHILCHARY/Movie-Investment-Efficiency-Portfolio-Risk-Analytics-System`
+
+# Demo Link
+`https://www.loom.com/share/68a772e36f444131997206e18bf4eacb`
 
 # Author
 
